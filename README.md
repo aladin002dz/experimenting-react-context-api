@@ -1,4 +1,4 @@
-# Playing Around with Context Api
+# Playing Around with React Context Api
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
